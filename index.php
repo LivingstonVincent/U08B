@@ -10,11 +10,15 @@
 	<!-- custom css -->
 	<link rel="stylesheet" type="text/css" href="style.css">
 
-	<title>Order a Pizza</title>
+	<title>U08B</title>
 	<!--
-		Create an interactive pizza ordering page using a client/server event with POST.
-
-		Your pizza ordering webpage should have 3 sizes and 4 topping options. Once submitted using POST, the data will be sent to the server for processing and return an itemized order receipt with a total. Use CSS to create a pleasing presentation. Must contain the 2 files (an HTML and a PHP file).
+	Livingston Vincent U08B
+		What objectives are you demonstrating?
+	-Demonstrate common Web form properties, methods and elements
+	-Demonstrate how data is transmitted from the client to the server and back again
+	-Demonstrate the difference between POST and GET methods on transmitting data
+	-Demonstrate common PHP operators, conditional statements, and loops
+	-Demonstrate a simple client/server event with PHP and a Web page
 	-->
 </head>
 <body>
